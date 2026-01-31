@@ -1,0 +1,18 @@
+public class functions {
+
+    public static void printHelloWorld() {
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+    }
+
+    // public static int printHelloWorld() {
+    //     System.out.println("Hello World");
+    //     System.out.println("Hello World");
+    //     System.out.println("Hello World");
+    //     return 3;
+    // }
+//     public static void main(String[] args) {
+//         printHelloWorld();     //Function call
+//     }
+ }
